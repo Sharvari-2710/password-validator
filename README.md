@@ -45,3 +45,13 @@ password-validator/
 |--- password_validation.ipynb
 |--- README.md
 |--- requirements.txt
+
+---
+
+## ▶️ How to Run
+
+1. Open the file `PASSWORD VALIDATION.ipynb`
+2. Run all cells from top to bottom
+3. Enter a password when prompted
+4. View the validation result
+
